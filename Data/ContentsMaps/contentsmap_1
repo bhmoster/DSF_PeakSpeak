@@ -1,0 +1,73 @@
+Well	Condition Variable 1 	Condition Variable 2
+A1	CPR1	No Ligand
+A2	CPR1	30uM NADPH
+A3	CPR1	20uM Cytochrome c
+A4	CPR1	7.5mM NADH
+A5	CPR1	30uM NADPH + 20uM Cytochrome c
+A6	CPR1	7.5mM NADH + 20uM Cytochrome c
+A7	No Protein	
+A8	No Protein	
+A9	No Protein	
+A10	No Protein	
+A11	No Protein	
+A12	No Protein	
+B1	CPR1	No Ligand
+B2	CPR1	30uM NADPH
+B3	CPR1	20uM Cytochrome c
+B4	CPR1	7.5mM NADH
+B5	CPR1	30uM NADPH + 20uM Cytochrome c
+B6	CPR1	7.5mM NADH + 20uM Cytochrome c
+B7	No Protein	
+B8	No Protein	
+B9	No Protein	
+B10	No Protein	
+B11	No Protein	
+B12	No Protein	
+C1	CPR1	No Ligand
+C2	CPR1	30uM NADPH
+C3	CPR1	20uM Cytochrome c
+C4	CPR1	7.5mM NADH
+C5	CPR1	30uM NADPH + 20uM Cytochrome c
+C6	CPR1	7.5mM NADH + 20uM Cytochrome c
+C7	No Protein	
+C8	No Protein	
+C9	No Protein	
+C10	No Protein	
+C11	No Protein	
+C12	No Protein	
+D1	CPR2	No Ligand
+D2	CPR2	30uM NADPH
+D3	CPR2	20uM Cytochrome c
+D4	CPR2	15mM NADH
+D5	CPR2	30uM NADPH + 20uM Cytochrome c
+D6	CPR2	15mM NADH + 20uM Cytochrome c
+D7	No Protein	
+D8	No Protein	
+D9	No Protein	
+D10	No Protein	
+D11	No Protein	
+D12	No Protein	
+E1	CPR2	No Ligand
+E2	CPR2	30uM NADPH
+E3	CPR2	20uM Cytochrome c
+E4	CPR2	15mM NADH
+E5	CPR2	30uM NADPH + 20uM Cytochrome c
+E6	CPR2	15mM NADH + 20uM Cytochrome c
+E7	No Protein	
+E8	No Protein	
+E9	No Protein	
+E10	No Protein	
+E11	No Protein	
+E12	No Protein	
+F1	CPR2	No Ligand
+F2	CPR2	30uM NADPH
+F3	CPR2	20uM Cytochrome c
+F4	CPR2	15mM NADH
+F5	CPR2	30uM NADPH + 20uM Cytochrome c
+F6	CPR2	15mM NADH + 20uM Cytochrome c
+F7	No Protein	
+F8	No Protein	
+F9	No Protein	
+F10	No Protein	
+F11	No Protein	
+F12	No Protein	
