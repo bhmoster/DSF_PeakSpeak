@@ -1,0 +1,24 @@
+***see 'dsf_long11' for negative control raw data
+Ligand test Exp 1: dsf_long1, contentsmap_1 ***map_1 includes negative controls in wells 7-12 under each condition for comparison
+Ligand test Exp 2: dsf_long2, contentsmap_2
+Ligand test Exp 3: dsf_long3, contentsmap_2
+
+***map_3 includes negative controls *see 'Neg Control Plate_10-12_Well-ID' for mapping to raw data 'dsf_long12'
+NADPH dependency + Cyt c Exp 1: dsf_long4, contentsmap_3.1 
+NADPH dependency + Cyt c Exp 2:dsf_long5, contentsmap_3.1
+NADPH dependency + Cyt c Exp 3:dsf_long6, contentsmap_3.1
+
+
+***map_4 includes negative controls *see 'Neg Control Plate_10-12_Well-ID' for mapping to raw data 'dsf_long12'
+Cyt c dependency + NADPH Exp 1: dsf_long7, contentsmap_4.1
+Cyt c dependency + NADPH Exp 2: dsf_long8, contentsmap_4.1
+Cyt c dependency + NADPH Exp 3: dsf_long9, contentsmap_4.1
+
+
+Cyt c dependency ONLY Exp 1: dsf_long13, contentsmap_5
+Cyt c dependency ONLY Exp 2: dsf_long14, contentsmap_5
+Cyt c dependency ONLY Exp 3: dsf_long15, contentsmap_5
+
+NADPH dependency ONLY Exp 1: dsf_long16, contentsmap_6
+NADPH dependency ONLY Exp 2: dsf_long17, contentsmap_6
+NADPH dependency ONLY Exp 3: dsf_long18, contentsmap_6
