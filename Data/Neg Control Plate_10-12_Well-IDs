@@ -1,0 +1,31 @@
+Buffer & 30uM NADPH CONTROLS -- dsf_10
+Buffer control ---A1-A3(CPR1)/A4-A6(CPR2)
+NADPH 30uM ---B1-B3(CPR1)/B4-B6(CPR2)
+
+-----------------------------------------------------
+Ligand Test CONTROLS -- dsf_11
+Cyt c 20uM ---A1-A3(CPR1)/A4-A6(CPR2)
+NADH 7.5mM ---B1-B3(CPR1)/--NADH 15mM --- B4-B6(CPR2)
+NADPH 30uM + 20uM Cyt c ---C1-C3(CPR1)/C4-C6(CPR2)
+NADH 7.5mM + 20uM Cyt c ---D1-D3(CPR1)/--NADH 15mM + 20uM Cyt c --- D4-D6(CPR2)
+
+-----------------------------------------------------
+(NADPH + 20uM Cytc) & (Cytc + 30uM NADPH) CONTROLS -- dsf_12
+
+NADPH 1uM ---A1-A3(CPR1)/A4-A6(CPR2)
+''''' 2uM ---B1-B3(CPR1)/B4-B6(CPR2)
+''''' 5uM ---C1-C3(CPR1)/C4-C6(CPR2)
+''''' 10uM ---D1-D3(CPR1)/D4-D6(CPR2)
+''''' 50uM ---E1-E3(CPR1)/E4-E6(CPR2)
+''''' 100uM ---F1-F3(CPR1)/F4-F6(CPR2)
+''''' 200uM ---G1-G3(CPR1)/G4-G6(CPR2)
+
+Cyt c .75uM ---A7-A9(CPR1)/A10-A12(CPR2)
+'''''  1uM ---B7-B9(CPR1)/B10-B12(CPR2)
+'''''  2uM ---C7-C9(CPR1)/C10-C12(CPR2)
+'''''  5uM ---D7-D9(CPR1)/D10-D12(CPR2)
+'''''  10uM ---E7-E9(CPR1)/E10-E12(CPR2)
+'''''  50uM ---F7-F9(CPR1)/F10-F12(CPR2)
+'''''  100uM ---G7-G9(CPR1)/G10-G12(CPR2)
+
+
